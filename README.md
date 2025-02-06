@@ -32,4 +32,7 @@ I have succesfully completed Triple ten bootcamp which covered Excel, data visua
     <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Project-0078D7?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="Project" />
   </a>
+ <a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
 </div>
