@@ -31,7 +31,6 @@ My recent experience includes completing the **TripleTen Data Analytics Bootcamp
 - 📊 Interactive dashboards via **Power BI** & **Tableau**
 - 🔍 SQL-based data exploration
 - 🧩 End-to-end project lifecycle implementation
-- 📡 BI reporting using **Tableau and power bi**
 
 I specialize in turning complex datasets into clear, actionable insights for stakeholders and executive teams.
 
