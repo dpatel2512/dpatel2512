@@ -1,62 +1,61 @@
-# 👋 Hello, I'm Dhruv Minesh Patel
+# 👋 Hey there, I’m Dhruv Minesh Patel
 
-<a href="https://github.com/dpatel2512">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-</a>
-<a href="mailto:dhruvpat200@gmail.com">
-  <img src="https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Email">
-</a>
-<a href="https://www.linkedin.com/in/dhruv-minesh-patel-89960b231/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-</a>
+<p align="center">
+  <a href="https://github.com/dpatel2512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dhruvpat200@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhruv-minesh-patel-89960b231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-🎓 **About Me**  
-I’m currently pursuing an MBA at **New York Institute of Technology**, focusing on Business Administration and Strategic Management. With a **Bachelor’s degree in Finance** (with Honors) from **AURO University**, I bring a solid foundation in financial analysis, business operations, and data-driven decision-making.
+## 🎓 Who I Am
 
-📌 I hold a **Certified Associate in Project Management (CAPM®)** designation, highlighting my capability in project planning, execution, and stakeholder management.
-
-🧠 **Key Experiences & Certifications**  
-I completed the **TripleTen Data Analytics Bootcamp**, covering:
-- Excel for financial modeling  
-- Data visualization using **Tableau** and **Power BI**  
-- SQL querying for business insights  
-- End-to-end analytics project execution  
-
-💼 I’ve applied these tools in real-world scenarios, leveraging **IBM Cognos Analytics** and **Microsoft Excel** to extract financial insights and present executive-level dashboards.
+🔹 I’m an MBA candidate at **New York Institute of Technology**, specializing in Business Administration and Strategic Management.  
+🔹 With a **Bachelor’s in Finance (Honors)** from **AURO University**, I bring a powerful mix of financial literacy and business strategy.  
+🔹 I'm a **Certified Associate in Project Management (CAPM®)**—proficient in orchestrating structured, high-impact projects.
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 What I Do
 
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Project-0078D7?style=for-the-badge&logo=microsoft-project&logoColor=white" alt="Microsoft Project" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-</div>
+I transform raw data into business intelligence that drives decision-making.  
+My recent experience includes completing the **TripleTen Data Analytics Bootcamp**, covering:
+
+- 📈 **Excel Modeling** for finance and ops
+- 📊 Interactive dashboards via **Power BI** & **Tableau**
+- 🔍 SQL-based data exploration
+- 🧩 End-to-end project lifecycle implementation
+- 📡 BI reporting using **Tableau and power bi**
+
+I specialize in turning complex datasets into clear, actionable insights for stakeholders and executive teams.
 
 ---
 
-📊 I am passionate about using **data analytics** to solve business challenges and enhance operational efficiency. I’m actively seeking opportunities where I can contribute as a **Business Analyst**, bringing together business acumen, data fluency, and project execution expertise.
+## 💼 Tools & Technologies
 
-> “Data tells a story—my job is to interpret it for action.”
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Microsoft_Project-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Project" />
+</p>
 
 ---
 
-🧭 Let's connect and drive data-forward decision making.
+## 🚀 Let’s Collaborate
+
+I’m passionate about solving business problems with **data**, **insight**, and **execution**. Whether it's building dynamic dashboards or spearheading strategic initiatives, I thrive where tech meets business.
+
+> “Data tells a story. My job is to translate it into impact.”
+
+📫 **Looking to connect or collaborate?**  
+Let’s build something meaningful—together.
+
